@@ -1,6 +1,6 @@
-# Javascript Load VSV File
+# Javascript Load CSV File
 
-Code to learn to load a CSV file and manipulate its data. This is part of a Udemy Machine Learning course. The aim of the course is to understand the mathematics and programming techniques that are used in the most common Machine Learning algorithms.
+Code to learn to load a Comma Separated Values (CSV) file and manipulate its data. This is part of a Udemy Machine Learning course. The aim of the course is to understand the mathematics and programming techniques that are used in the most common Machine Learning algorithms.
 
 **\* Note: to open web links in a new window use: _ctrl+click on link_**
 
@@ -25,7 +25,7 @@ Code to learn to load a CSV file and manipulate its data. This is part of a Udem
 
 ## Technologies
 
-- [node.js v10.15.0 LTS](https://nodejs.org).
+- [node.js v10.15.3](https://nodejs.org).
 
 - [Lodash v4.17.11](https://lodash.com/) Javascript utility library.
 
@@ -60,7 +60,7 @@ data = data.map((row, index) => {
 
 ## Features
 
-- f
+- options can be changed
 
 ## Status & To-Do List
 

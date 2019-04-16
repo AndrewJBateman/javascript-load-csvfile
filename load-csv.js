@@ -88,7 +88,7 @@ function loadCSV (
 	}
 
 }
-
+// destructuring used
 const { features, labels, testFeatures, testLabels } = loadCSV('data.csv', {
 	dataColumns: ['height', 'value'],
 	labelColumns: ['passed'],
