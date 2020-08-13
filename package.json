@@ -6,14 +6,14 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-	"repository": {
-		"url": "https://github.com/AndrewJBateman/javascript-load-csvfile"
-	},
+  "repository": {
+    "url": "https://github.com/AndrewJBateman/javascript-load-csvfile"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.19",
     "shuffle-seed": "^1.1.6"
   }
 }
