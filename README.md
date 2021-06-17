@@ -1,25 +1,31 @@
 # :zap: Javascript Load CSV File
 
-* Code to learn to load a Comma Separated Values (CSV) file and manipulate its data. This is part of a Udemy Machine Learning course. The aim of the course is to understand the mathematics and programming techniques that are used in the most common Machine Learning algorithms.
+* Code to learn to load a Comma Separated Values (CSV) file and manipulate its data.
+* **Note:** to open web links in a new window use: _ctrl+click on link_
 
-**\* Note: to open web links in a new window use: _ctrl+click on link_**
+![GitHub repo size](https://img.shields.io/github/repo-size/AndrewJBateman/javascript-load-csvfile?style=plastic)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/AndrewJBateman/javascript-load-csvfile?style=plastic)
+![GitHub Repo stars](https://img.shields.io/github/stars/AndrewJBateman/javascript-load-csvfile?style=plastic)
+![GitHub last commit](https://img.shields.io/github/last-commit/AndrewJBateman/javascript-load-csvfile?style=plastic)
 
 ## :page_facing_up: Table of contents
 
 * [:zap: Javascript Load CSV File](#zap-javascript-load-csv-file)
-	* [:page_facing_up: Table of contents](#page_facing_up-table-of-contents)
-	* [:books: General info](#books-general-info)
-	* [:camera: Screenshots](#camera-screenshots)
-	* [:signal_strength: Technologies](#signal_strength-technologies)
-	* [:floppy_disk: Setup](#floppy_disk-setup)
-	* [:computer: Code Examples](#computer-code-examples)
-	* [:cool: Features](#cool-features)
-	* [Status & To-Do List](#status--to-do-list)
-	* [:clap: Inspiration](#clap-inspiration)
+  * [:page_facing_up: Table of contents](#page_facing_up-table-of-contents)
+  * [:books: General info](#books-general-info)
+  * [:camera: Screenshots](#camera-screenshots)
+  * [:signal_strength: Technologies](#signal_strength-technologies)
+  * [:floppy_disk: Setup](#floppy_disk-setup)
+  * [:computer: Code Examples](#computer-code-examples)
+  * [:cool: Features](#cool-features)
+  * [Status & To-Do List](#status--to-do-list)
+  * [:clap: Inspiration](#clap-inspiration)
+  * [:file_folder: License](#file_folder-license)
+  * [:envelope: Contact](#envelope-contact)
 
 ## :books: General info
 
-* This is part of a course on Machine Learning and TensorFlow.
+* Part of a Udemy Machine Learning/Tensorflow course to understand the mathematics and programming techniques that are used in the most common Machine Learning algorithms.
 
 ## :camera: Screenshots
 
@@ -27,9 +33,9 @@
 
 ## :signal_strength: Technologies
 
-* [node.js v12](https://nodejs.org).
-* [Lodash v4.17.11](https://lodash.com/) Javascript utility library.
-* [shuffle-seed v1.1.6](https://www.npmjs.com/package/shuffle-seed) a Nodejs module to Shuffle an Array of records by adding a seed phrase.
+* [node.js v14](https://nodejs.org).
+* [Lodash v4](https://lodash.com/) Javascript utility library.
+* [shuffle-seed v1ºx](https://www.npmjs.com/package/shuffle-seed) a Nodejs module to Shuffle an Array of records by adding a seed phrase.
 
 ## :floppy_disk: Setup
 
@@ -64,11 +70,17 @@ data = data.map((row, index) => {
 
 ## Status & To-Do List
 
-* Status: Working code.
-* To-Do: add to comments and try a more complex CSV data set.
+* Status: Working.
+* To-Do: Try a more complex CSV data set.
 
 ## :clap: Inspiration
 
 * [Udemy Course: Machine Learning With Javascript, Appendix Section 14](https://www.udemy.com/machine-learning-with-javascript/learn/v4/content)
 
-* Repo created by [ABateman](https://www.andrewbateman.org) - you are welcome to [send me a message](https://andrewbateman.org/contact)
+## :file_folder: License
+
+* N/A
+
+## :envelope: Contact
+
+* Repo created by [ABateman](https://github.com/AndrewJBateman), email: gomezbateman@yahoo.com
